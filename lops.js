@@ -29,3 +29,7 @@ if (today == "saturday") {
    } else {
       
    }
+do {
+   console.log("khalid")
+   counter++;
+} while (counter < 10);
